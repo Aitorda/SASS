@@ -1,0 +1,20 @@
+section {
+  height: 200px;
+  background: #b19052;
+  text-align: center; }
+  section:hover {
+    color: #e9e0e0; }
+  section h1 {
+    background: #f75c5c; }
+  section p {
+    background: #b19052; }
+
+.titulo {
+  height: 200px;
+  background: #2e2e14;
+  text-align: center; }
+
+footer {
+  height: 200px;
+  background: #f75c5c;
+  text-align: center; }

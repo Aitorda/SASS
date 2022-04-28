@@ -1,0 +1,15 @@
+section{
+    &:hover{color: rgb(233, 224, 224);}
+    height: 200px;
+    background: $color-dos;
+    text-align: center;
+   
+
+    h1{
+        background: $color-tres;
+    }
+    
+    p{
+        background: $color-dos;
+    }
+}
